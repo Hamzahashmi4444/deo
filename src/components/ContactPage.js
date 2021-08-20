@@ -33,7 +33,7 @@ class ContactPage extends Component {
             <div className="col-md-7">
               <div className="contact-us">
                 <h2>Contact Us</h2>
-                <h3>Need Any Legal Help? &nbsp; Let's Consult !</h3>
+                <h3>Need Any Help? &nbsp; Let's Consult !</h3>
                 <ContactUs />
               </div>
             </div>
