@@ -17,6 +17,6 @@ export const updates = [
   {
     title: "What Are The Property Laws In Pakistan",
     description: `Article 4 subsection 2 of the constitution of Islamic Republic of Pakistan provides that no action detrimental to the life, liberty, body, reputation or property of any person shall be taken except in accordance with law. This article of the constitution provides protection to all citizens of Pakistan with regards to their property rights.`,
-    image: `property-law.jpg`,
+    image: `property-law.jpg`.
   },
 ];
